@@ -15,6 +15,15 @@ public class HelloWorld {
         // println() prints the following line to the output screen
         System.out.println("You entered: " + number);
     }
+    #feature302 changes by dev2
+    public Student(int id, int mark, String name)
+   {
+      super();
+      this.id = id;
+      this.mark = mark;
+      this.name = name;
+   }
+
     #feature301 changes by dev1
      public static void main(String[] args) {
 
